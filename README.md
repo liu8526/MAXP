@@ -1,4 +1,4 @@
-# MAXP竞赛——DGL图数据Baseline模型
+# MAXP竞赛
 
 本代码库是为2021 MAXP竞赛的DGL图数据所准备的Baseline模型，供参赛选手参考学习使用DGL来构建GNN模型。
 
